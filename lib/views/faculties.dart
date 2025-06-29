@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:students_registration_application/views/facultiesList.dart';
+import 'package:students_registration_application/data/facultiesList.dart';
 
 class Faculties extends StatelessWidget {
   const Faculties({super.key});
